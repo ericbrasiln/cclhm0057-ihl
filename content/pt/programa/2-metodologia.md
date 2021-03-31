@@ -8,12 +8,24 @@ weight: 2
 
 # Metodologias de ensino:
 
-O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas síncronas (utilizando o Google Meet), plantões de atendimento (com monitor/a), e tarefas assíncronas (vídeos, leituras e tarefas práticas).
+O curso será divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
 
-- As aulas síncronas terão duas horas de duração (sem cobrança de presença) e acontecerão entre 19h e 21h nas datas definidas no [cronograma](cronograma){:target="_blank"}).
+## Atividades Síncronas (AS):
 
-- Os plantões de atendimento terão uma hora de duração (sem cobrança de presença), serão agendados em grupos e têm como objetivo sanar dúvidas sobre cada módulo e/ou atividade.
+### Encontros virtuais (EV):
 
+- Os encontros virtuais terão entre **uma hora e uma hora e trinta minutos de duração**, entre 19h e 20h30min, às quartas-feiras definidas no cronograma
+
+- Não haverá cobrança de presença nos encontros virtuais;
+  
+- Os links para acesso da sala no Google Meet serão enviados com antecedência para os e-mails cadastrados no SIGAA. 
+
+{{< alert theme="warning" >}} Não haverá permissão de ingresso na sala virtual após o início do encontro. Os/as discentes devem aceitar o convite para participar através do link previamente. {{< /alert >}}
+
+### Plantões de atendimento:
+
+- Três vezes na semana, o professor estará on-line no servidor do Discord disponível para atender dúvidas, demandas, responder comentários, debater questões pertientes, trocar gifs e tentar tornar essa experiência mais humana.
+- 
 - As tarefas assíncronas estão divididas entre leituras e vídeos e realização de exercícios práticos.
 
 -  _Atividades avaliativas_. Teremos quatro dessas _atividades_, que devem ser entregues e servem como controle de **presenças e avaliação**.
@@ -22,6 +34,7 @@ O curso será divido em 5 módulos. Cada módulo reúne um conjunto de aulas sí
 
 ## Recursos Didáticos
 
+- Discord;
 - Google Meet;
 - Site da disciplina;
 - SIGAA;
