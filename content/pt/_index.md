@@ -8,7 +8,7 @@ landing:
   height: 500
   image: favicon/logohist.png
   title:
-    - CLHM0057
+    - CCLHM0057
   text:
     - História da América - colonização e resistência
   titleColor: 
