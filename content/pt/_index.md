@@ -2,7 +2,7 @@
 title: CCLHM0057
 description: Página inicial
 date: 2020-01-26T04:15:05+09:00
-draft: false
+draft: true
 #updatesBanner: "![](favicon/logohist.png) </p> <h1>CCLHM0057 -2020.2 <br> História da América:<br>colonização e resistência<br>Prof. Eric Brasil (IHL/UNILAB) </h1>"
 landing:
   height: 500
