@@ -2,7 +2,7 @@
 title: "2. Metodologia"
 description: "Como vamos aprender"
 date: 2021-03-31T15:06:16-03:00
-draft: true
+draft: false
 weight: 2
 ---
 

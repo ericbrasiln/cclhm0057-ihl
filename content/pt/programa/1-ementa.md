@@ -2,7 +2,7 @@
 title: "1. Ementa"
 description: "O que vc vai aprenser nesse curso"
 date: 2021-03-31T14:21:46-03:00
-draft: true
+draft: false
 weight: 1
 ---
 
